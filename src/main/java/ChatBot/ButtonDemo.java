@@ -5,7 +5,7 @@
     Date: 18/07/21
     Version: 1.0
  */
-package com.mycompany.aichatbot;
+package ChatBot;
 
 import java.awt.*;
 import java.awt.event.*;
